@@ -1,0 +1,6 @@
+localhost
+5432
+openpg
+openpgpwd
+odoo
+odoopwd
